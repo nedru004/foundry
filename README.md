@@ -51,7 +51,7 @@ The recipe to create the Docker image can be found in `foundry/examples/docker` 
 
 ### Google Colab
 For an interactive Google Colab notebook walking through a basic design pipeline with RFD3, MPNN, and RF3, please see
-[![Open Colab RFD3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nedru004/foundry/blob/main/ipd_design_pipeline_collab.ipynb)
+[![Open Colab RFD3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nedru004/foundry/blob/production/ipd_design_pipeline_collab.ipynb)
 
 ### RFdiffusion3 (RFD3)
 
